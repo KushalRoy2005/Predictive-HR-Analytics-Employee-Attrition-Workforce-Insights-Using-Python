@@ -26,5 +26,3 @@ Employee attrition is a major challenge for organizations as it impacts producti
 - Lower salary employees have higher attrition probability.
 - Work-life balance significantly influences employee retention.
 - Early-tenure employees show higher turnover risk.
-
-## Project Structure
